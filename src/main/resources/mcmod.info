@@ -1,0 +1,12 @@
+[{
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "Better Questing Unofficial Addon which add claim land system.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "",
+    "url": "https://github.com/sysnote8main/BQuChunks",
+    "authorList": ["sysnote8main"],
+    "credits": "",
+    "dependencies": ["betterquesting"]
+}]
