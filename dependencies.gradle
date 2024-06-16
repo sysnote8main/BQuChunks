@@ -39,5 +39,7 @@
  */
 dependencies {
     // Hard Dependencies
+    devOnlyNonPublishable(rfg.deobf("curse.maven:journeymap-32274:5157846")) // Journey Map 5.7.1p2
     devOnlyNonPublishable(rfg.deobf("curse.maven:better-questing-unofficial-629629:5183601")) // Better Questing Unofficial 4.2.2
+    devOnlyNonPublishable(rfg.deobf("curse.maven:modularui-624243:5153413")) // ModularUI 2.4.3
 }
